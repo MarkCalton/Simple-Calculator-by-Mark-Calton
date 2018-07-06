@@ -7,7 +7,7 @@ color 3f
 Cls
 ECHO ----------------------------------------------------
 ECHO[
-ECHO                    DOS CALCULATOR
+ECHO                    SIMPLE CALCULATOR
 ECHO[
 ECHO ----------------------------------------------------
 ECHO[
@@ -36,7 +36,7 @@ IF %ch% GTR . GOTO:Hel
 CLS
 ECHO ---------------------------------------------------
 ECHO[
-ECHO                         SUM
+ECHO                         ADD
 ECHO[
 ECHO ---------------------------------------------------
 ECHO[
@@ -109,6 +109,6 @@ ECHO[
 ECHO                         HELP
 ECHO[
 ECHO --------------------------------------------------
-ECHO Press (+) For Sum, (-) For Sub, (/) for Division, (*) for Multiply.
+ECHO Press (+) For Add, (-) For Subtract, (/) for Divide, (*) for Multiply.
 PAUSE
 GOTO:TOP
