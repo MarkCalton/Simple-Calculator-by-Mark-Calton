@@ -21,7 +21,7 @@ ECHO[
 ECHO    * = Multiply
 ECHO[
 ECHO    ~ = Exit
-ECHO[
+ECHO  For help, press any key except above keys.
 ECHO[
 ECHO ----------------------------------------------------
 ECHO[
@@ -36,7 +36,7 @@ IF %ch% GTR . GOTO:Hel
 CLS
 ECHO ---------------------------------------------------
 ECHO[
-ECHO                         ADD
+ECHO                         SUM
 ECHO[
 ECHO ---------------------------------------------------
 ECHO[
