@@ -12,11 +12,11 @@ ECHO[
 ECHO ----------------------------------------------------
 ECHO[
 ECHO[
-ECHO    + = Sum
+ECHO    + = Add
 ECHO[
-ECHO    - = Sub
+ECHO    - = Subtract
 ECHO[
-ECHO    / = Division
+ECHO    / = Divide
 ECHO[
 ECHO    * = Multiply
 ECHO[
