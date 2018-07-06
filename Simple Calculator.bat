@@ -7,21 +7,21 @@ color 3f
 Cls
 ECHO ----------------------------------------------------
 ECHO[
-ECHO                    DOS CALCULATOR
+ECHO                    SIMPLE CALCULATOR
 ECHO[
 ECHO ----------------------------------------------------
 ECHO[
 ECHO[
-ECHO    + = Sum
+ECHO    + = Add
 ECHO[
-ECHO    - = Sub
+ECHO    - = Subtract
 ECHO[
-ECHO    / = Division
+ECHO    / = Divide
 ECHO[
 ECHO    * = Multiply
 ECHO[
 ECHO    ~ = Exit
-ECHO[
+ECHO  For help, press any key except above keys.
 ECHO[
 ECHO ----------------------------------------------------
 ECHO[
@@ -109,6 +109,6 @@ ECHO[
 ECHO                         HELP
 ECHO[
 ECHO --------------------------------------------------
-ECHO Press (+) For Sum, (-) For Sub, (/) for Division, (*) for Multiply.
+ECHO Press (+) For Add, (-) For Subtract, (/) for Divide, (*) for Multiply.
 PAUSE
 GOTO:TOP
