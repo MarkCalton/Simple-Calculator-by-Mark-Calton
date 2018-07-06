@@ -21,8 +21,8 @@ ECHO[
 ECHO    * = Multiply
 ECHO[
 ECHO    ~ = Exit
-ECHO  For help, press any key except above keys.
 ECHO[
+ECHO    For Help, press any key except keys displayed above.
 ECHO ----------------------------------------------------
 ECHO[
 SET/P ch=" Enter Symbol "
