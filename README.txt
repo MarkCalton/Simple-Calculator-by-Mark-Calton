@@ -92,4 +92,7 @@ Also, there are some other menus, such as:
 
  This shows the version and author info for this batch file. It also shows
  quick help, in case you forgot something.
+ 
+ Oh and also, don't mind the name of the folder/directory.
+ -MARK CALTON
 
